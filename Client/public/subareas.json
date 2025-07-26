@@ -1,0 +1,145 @@
+{
+  "Karachi": [
+    "Clifton", "Defence Housing Authority (DHA)", "Gulshan-e-Iqbal",
+    "Korangi", "Federal B. Area (F.B Area)", "North Nazimabad", "Bahadurabad",
+    "PECHS (Pakistan Employees Cooperative Housing Society)","Malir", "Saddar","Lyari","Orangi Town","Gulistan-e-Johar","Nazimabad",
+    "Liaquatabad","Landhi","Shah Faisal Colony","Gulzar-e-Hijri","Surjani Town","North Karachi","New Karachi",
+    "Gulshan-e-Maymar","Scheme 33", "Garden East", "Garden West", "Kharadar", "Mithadar", "Soldier Bazaar", "Buffer Zone", "SITE Area",
+    "Korangi Industrial Area", "Shah Latif Town","Bin Qasim Town", "Model Colony", "Malir Cantt", "Airport Area", "Askari IV", "Askari V",
+    "Bahria Town Karachi", "Saadi Town", "Gulshan-e-Hadeed", "Mehmoodabad", "Akhtar Colony", "Azam Basti", "Baldia Town", "Ittehad Town", "Qayyumabad", "Shahrah-e-Faisal"
+  ],
+  "Lahore": [
+    "Defence Housing Authority (DHA)", "Gulberg",  "Model Town", "Johar Town", "Bahria Town", "Askari", "Cantt (Cantonment)",
+    "Mughalpura", "Shadbagh", "Samnabad", "Ichhra", "Faisal Town", "Garden Town", "Walled City (Old City)", "Allama Iqbal Town", "Anarkali", "Awan Town", "Barki",
+    "Bata Pur", "Beadon Road", "Bhimpura", "Chah Miran", "Chuburji", "Civic Centre", "Cooper Road", "Data Darbar", "Davis Road",
+    "Emporium Mall Area", "Ferozepur Road", "Gajjumata", "Garhi Shahu", "Gawalmandi", "Green Town", "Gulshan-e-Ravi", "Harbanspura", "Hassan Town",
+    "Iqbal Park", "Jail Road", "Jallo Mor", "Jauhar Town",  "Kachehri Road", "Kahna", "Kala Shah Kaku", "Lakshmi Chowk", "Lawrence Road",
+    "Liberty Market", "Lohari Gate", "M.M. Alam Road", "Mall Road", "Mansoorah", "Mason Road", "Mehmood Booti", "Muslim Town", "Mustafa Town",
+    "Naseerabad", "Nawan Kot", "Neela Gumbad", "New Garden Town", "PIA Housing Society", "Prem Nagar", "Punjab University Area",
+    "Qainchi", "Qartaba Chowk", "Race Course", "Raiwind", "Rana Town", "Ravi Road", "Ravi Town", "Sabzazar", "Samanabad", "Sanda",
+    "Satellite Town", "Shadman", "Shahdara", "Shahpur", "Shalimar Town", "Sodiwal", "Sultan Pura", "Sunder Das", "Tajpura", "Thokar Niaz Baig",
+    "Township", "Upper Mall", "Valancia", "Wahdat Colony", "Walton", "Wapda Town", "Yateem Khana", "Zaman Park", "Zarar Shaheed Road"
+  ],
+  "Islamabad": [
+    "Sector F-5", "Sector F-6", "Sector F-7", "Sector F-8", "Sector F-10", "Sector F-11",
+    "Sector G-5", "Sector G-6", "Sector G-7", "Sector G-8", "Sector G-9", "Sector G-10", "Sector G-11", "Sector G-13", "Sector G-14", "Sector G-15",
+    "Sector E-7", "Sector E-8", "Sector E-11", "Sector E-12", "Sector E-16",
+    "Sector I-8", "Sector I-9", "Sector I-10", "Sector I-11", "Sector I-14", "Sector I-15", "Sector I-16",
+    "Sector H-8", "Sector H-9", "Sector H-11", "Sector H-12", "Sector H-13", "Sector H-16",
+    "Sector D-10", "Sector D-11", "Sector D-12", "Sector D-13", "Sector D-14", "Sector D-15", "Sector D-16", "Sector D-17",
+    "Sector C-12", "Sector C-13", "Sector C-14", "Sector C-15", "Sector C-16", "Sector C-17",
+    "Blue Area (Commercial Hub)", "Jinnah Super Market", "Aabpara Market",
+    "F-10 Markaz", "F-11 Markaz", "G-9 Markaz", "G-10 Markaz", "I-8 Markaz", "E-11 Markaz",
+    "DHA Phase 1", "DHA Phase 2", "Bahria Town Phase 1-8", "Bahria Enclave", "Lehtarar Road", "Gulberg Greens", "Park View City", "Top City", "CBR Town",
+    "Islamabad Model Town", "Chatha Bakhtawar", "Al-Noor Orchard", "PWD Housing Scheme", "Soan Garden", "FGEHA (Federal Govt Employees Housing Authority)",
+    "Bani Gala", "Chak Shahzad", "Bhara Kahu", "Tarlai Kalan", "Kuri Model Village",
+    "Golra Sharif", "Sihala", "Tarnol", "Pir Sohawa (Margalla Hills)", "Margalla Town", "Rawal Town", "Gulshan-e-Dadi", "Diplomatic Enclave",
+    "Constitution Avenue", "Jinnah Avenue"
+  ],
+  "Rawalpindi": [
+    "Saddar","Raja Bazar","Murree Road","Bahria Town Phase 1-8","DHA Phase 1-2","Askari 1-14","Adiala Road","Chaklala Scheme I","Chaklala Scheme II",
+    "Chaklala Scheme III","Satellite Town","Westridge","Faizabad","Commercial Market","Bank Road","Committee Chowk","Fawara Chowk","Ganj Mandi",
+    "Lalkurti","Mareer Hasan","Moti Bazar","Banni Chowk","Chur Chowk","Dheri Hassanabad","Dhoke Kala Khan","Dhoke Syedan","Gulistan Colony",
+    "Kashmir Colony","Khayaban-e-Sirsyed","Liaquat Bagh","Naseerabad","Peshawar Road","Pirwadhai","Race Course","Rawal Town","Rehmanabad","Sadiqabad",
+    "Shamsabad","Tench Bhatta","Waris Khan","Chak Jalal Din","Chak Beli Khan","Chakri Road","IJP Road","Jhelum Road","Misrial Road","6th Road",
+    "7th Road","8th Road","9th Road","10th Road","Airport Housing Society","Al-Haram City","Al-Noor Orchard","Al-Habib Phase 2","Awami Colony",
+    "Bostan Khan Road","Chaklala Cantt","Chandni Chowk","Chontra","Defence Road","Gulraiz Housing Scheme","Islamabad Highway","Javed Colony",
+    "Koral Chowk","Misriyal Stop","Morgah","Nai Abadi","New Lalazar","Pindi Club Road","Sihala","Trunk Bazar","University Town","Zia Colony","Zia Ul Haq Road"
+  ],
+  "Faisalabad": [
+    "People's Colony","Madina Town","Satyana Road","Jinnah Colony","Dijkot Road","Susan Road","Gulistan Colony","Wapda Town","FDA City",
+    "Canal Road","Abdullah Pur","Amin Town","Batala Colony","Bhawana Bypass","Bismillah Colony","Chiniot Bazaar","Circular Road","Cloth Market","D Ground",
+    "D-Type Colony","Engineering University Road","Faisalabad International Airport Area","Faisalabad Motorway Interchange Area","Garden Town",
+    "Ghulam Muhammad Abad","Gobind Pura","Gulbahar Colony","Gulberg Colony","Iqbal Town","Islamabad Colony","Jaranwala Road","Jhang Bazaar",
+    "Jhang Road","Kachehri Bazaar","Khawaja Colony","Kohinoor Town","Kotwali Road","Layyah Colony","Lyallpur Town","Mall Road","Mansoorabad",
+    "Millat Road","Model Town","Muhammadabad","Mumtazabad","Nishatabad","Noor Kot","Painsra","Punjab Medical College Area","Railway Colony",
+    "Rajbah Colony","Rehmanabad","Rizwan Colony","Samanabad","Satiana Road","Shahkot Bypass","Shahpur Kanjra","Siddique Trade Center Area",
+    "Sikandarabad","Sukh Chayn Gardens","Tariqabad","Toba Tek Singh Road","University Road","Waris Pura","Zahoor Elahi Road","Zila Council Chowk"
+  ],
+  "Peshawar": [
+    "Cantt (Cantonment)","University Town","Hayatabad Phase 1-7","Gulbahar","Tehkal","Township","Charsadda Road","Kohat Road","Warsak Road",
+    "Arbab Road","Bara Road","Battagram Road","Board Bazaar","Bund Road","Chamkani","Dag Besud","Deans Trade Center Area","Dir Colony",
+    "Dubai Plaza Area","Fazal-e-Haq Road","Gandhi Chowk","Garhi Qamardin","Ghari Kaka Sahib","Grand Trunk Road","Gulberg Colony","Hashtnagri",
+    "Islamia College Road","Jamil Chowk","Jinnah Park Area","Karkhano Market Area","Khalid Bin Waleed Road","Khyber Bazaar","Khyber Road",
+    "Kotla Mohsin Khan","Landi Arbab","Liaquat Bazaar","Matoon Road","Mirs Pur","Nishtarabad","Pajjagi Road","Palosi","Pir Bala","Pir Zakori","Qissa Khwani Bazaar",
+    "Ring Road","Saddar Bazaar","Sahibzada Abdul Qayyum Road","Sardar Garhi","Shafi Market Area","Shahi Bagh","Shaheen Town","Shamshato","Sheikhabad",
+    "Sherpao Colony","Shobra","Sikandar Town","Sufaid Dheri","Wazir Bagh","Yakatoot","Zaryab Colony"
+  ],
+  "Quetta": [
+    "Cantt (Cantonment)","Jinnah Road","Zarghoon Road","Airport Road","Satellite Town","Brewery Road","Sabzal Road","Alamdar Road","Abdali Road",
+    "Arbab Karam Khan Road","Askari Road","Badini Bagh","Baleli Road","Bolan Town","Chaman Housing Scheme","Chiltan Housing Scheme","Circular Road",
+    "Eastern Bypass","GPO Chowk Area","Gulistan Road","Hanna Valley","Hazara Town","Hindu Colony","Joint Road","Kandahari Bazaar","Kharotabad",
+    "Killi Deba","Kuchlak Road","Liaquat Bazaar","Mecongi Road","Mehrabad","Model Town","Mominabad","Nawan Killi","New Kahan","Pashtoonabad",
+    "Pishin Stop","Prince Road","Quetta Development Authority (QDA) Colony","Quetta Railway Station Area","Samungli Road","Sariab Road",
+    "Shahbaz Town","Shahrah-e-Iqbal","Shalkot Housing Scheme","Sirki Road","Spinny Road","Staff Lines","Toghi Road","University Town","Western Bypass","Zarghoon Town"
+  ],
+  "Multan": [
+    "Cantt (Cantonment)","Gulgasht Colony","Abdali Road","Shah Rukn-e-Alam Colony","MDA Chowk","Bosan Town","Wapda Town","DHA Multan","Aam Khas Bagh",
+    "Airport Road","Alamdar Road","Ali Town","Aman Nagar","Basti Khairdin","Bosan Road","Chah Fatih Wala","Chaudhry Colony","Chenab Club Road",
+    "Chowk Bazaar","Chowk Kumharanwala","Dera Adda","Fertilizer Factory Area","Garden Town","Ghauspur Road","Ghanta Ghar","Gulgasht Colony",
+    "Hafiz Jamal Road","Haram Gate","Hussain Agahi","Iqbal Town","Jalalpur Pirwala Road","Javedan Colony","Jhang Bazaar","Jinnah Colony","Kachehri Road",
+    "Khanewal Road","Kutchery Road","Lari Adda","Lodhi Colony","Lohari Gate","Mansoora Colony","Model Town","Muzaffarabad Colony","Nawan Shehr","Nawabpur Road",
+    "Nishtar Hospital Area","Noori Gate","Pak Gate","Peer Khursheed Colony","Qasim Bela","Qila Kohna Qasim Bagh","Race Course","Railway Colony",
+    "Rang Mehal","Raza Abad","Razaqabad","Sabzazar","Sadar Bazaar","Sahiwal Road","Sarai Kharbuza","Shah Shams Colony","Shahbazpur Road",
+    "Shahpur","Shakir Colony","Sher Shah Road","Shujaabad Road","Sikandarabad","Sultan Colony","Tareen Colony","Tehsil Chowk","Tibba Sultanpur",
+    "Tomb Road","Tulamba Road","Vehari Road","Yousafabad","Zakariya Town"
+  ],
+  "Hyderabad": [
+    "Latifabad","Qasimabad","Cantt (Cantonment)","Hirabad","Citizen Colony","Saddar","Aman Nagar","Auto Bhan Road","Bhitai Nagar","Bunder Road","Chandio Goth",
+    "City Station Area","Cloth Market","Daryaabad","Gari Khata","Giddu Chowk","Gulistan-e-Sajjad","Hala Road","Harbour Road","Hassan Square",
+    "Hussainabad","Hyder Chowk","Indira Gandhi Road","Institute Road","Jail Road","Jamshoro Road","Kacha Qila","Kali Mori","Khawaja Colony",
+    "Kotri Bypass","Liaquat Colony","Makki Shah Road","Market Tower Area","Mianwali Colony","Model Town","Nabi Bagh","Naseem Nagar","New Cloth Market",
+    "New Sabzi Mandi","Pakistan Chowk","P.I.B. Colony","Qazi Ahmed Road","Railway Station Area","Rani Bagh","Resham Gali","Risala Road",
+    "Sachal Colony","Sarhad Colony","Serai Quarter","Shahbaz Nagar","Shahrah-e-Liaquat","SITE Area","Sobhraj Goth","Society Area","Tando Wali Muhammad",
+    "Tariq Road","Teen Hatti","Tilak Incline","Tippu Sultan Road","Unit No. 1-12 (Latifabad)","Wadhu Wah Road","Waseemabad","Zeenat Market"
+  ],
+  "Sialkot": [
+    "Cantt (Cantonment)","Paris Road","Pasrur Road","Sambrial Road","Shabbir Town","Citi Housing Sialkot","DHA Sialkot","Abdullah Pur","Allama Iqbal Road",
+    "Anwar Khawaja Road","Aziz Bhatti Road","Baghbanpura","Barki Road","Bhalwal Road","Bhopalwala","Chawinda Road","Clock Tower","College Road",
+    "Dhobey Ghat","Doctor Hospital Road","Faisal Town","Farooqabad","Fatima Jinnah Road","Gohad Pur","Gulshan-e-Iqbal","Hajiabad","Hassan Medical Road",
+    "Islam Pura","Jinnah Road","Kashmir Road","Kotli Noor Shah","Lakkar Mandi","Lunda Bazaar","Madina Town","Model Town","Mughalpura","Muslim Town",
+    "New Abadi","Nicholson Road","Noor Pur","Prem Nagar","Qila Kalarwala","Quaid-e-Azam Industrial Estate","Race Course Road","Ratta Amral","Rehmatabad",
+    "Riaz Road","Saddar Bazar","Saharan Road","Sambrial Bypass","Satra Meel","Shahab Pura","Shahzaman Park","Shalimar Colony","Sialkot Dry Port Area",
+    "Sialkot International Airport Area","Sikandarabad","Sodhra Road","Sports Goods Manufacturing Area","Sultan Pura","Tariqabad","Tench Bhata",
+    "Uggoki","Wadala Sandhuan","Waris Pura","Zafarwal Road","Zia Colony"
+  ],
+  "Gujranwala": [
+    "Satellite Town","People's Colony","Model Town","Wapda Town","DC Colony","Master City","Palm City","DHA Gujranwala","Citi Housing Gujranwala","Alipur Chatha Road",
+    "Amin Park","Babu Sabu","Bara Market","Bashirpura","Chinar Bagh","Civil Lines","Clock Tower","College Road","Dhulley Wala",
+    "Eden Garden","Fateh Garh","Gakhar Mandi", "Ghakhar Road", "Gondal Road",
+    "Gulshan Colony", "Hajiabad", "Hameed Park", "Harbanspura", "Industrial Area", "Jalalpur Jattan Road", "Jinnah Road", "Kachi Bazar",
+    "Kala Khatai", "Kamoke Bypass", "Kashmir Road", "Khiali Shahpur", "Kotli Arayan", "Lakhanwal", "Lala Zar Colony", "Lawrence Road",
+    "Madina Town", "Main Bazar", "Malkhanwala", "Mansoorabad", "Maraka", "Mariam Colony", "Mian Fateh Road", "Muslim Town", "Nandipur",
+    "Naseerabad", "New Model Town", "Nishatabad", "Nizamabad", "Noorpur",  "OPF Colony", "Pir Bakhsh Town", "Prem Nagar", "Rai Market",
+    "Rehmanpura", "Sadiqabad", "Safanwala Chowk", "Samanabad", "Shadman Colony", "Shahbaz Town",
+    "Shalimar Colony", "Sheranwala Bagh", "Sikandarabad", "Sukheki Mandi",  "Sultan Pura", "Tahir Town",
+    "Tajpura", "Tariqabad", "Tehsil Chowk", "University Road", "Usman Town", "Wahdat Colony", "Waris Pura", "Zafar Town", "Zia Colony"
+  ],
+  "Sargodha": [
+    "Satellite Town", "Civil Lines", "Board Bazar", "Queen's Road",
+    "University Road", "Dhreme Walo Kuwa", "Airport Housing Society", "Al-Habib Colony", "Allama Iqbal Colony", "Amin Town", "Askari Colony",
+    "Bahloki Road", "Bhalwal Road", "Bhera Road", "Bismillah Colony", "Canal Colony", "Cantonment", "Chak No. 10 NB", "Chak No. 85 NB",
+    "Chiniot Bazar", "Circular Road", "City Housing Society", "Civil Aviation Colony", "D-Type Colony", "Darbar Chowk", "Defence Colony",
+    "Dera Adda", "Faisal Colony", "Fazal Town", "Gohar Town", "Gulshan Colony", "Gulshan-e-Iqbal", "Hajiabad", "Hashmat Colony", "Islamabad Colony",
+    "Jail Road", "Jauharabad Road", "Kachehri Road", "Khayaban-e-Sir Syed", "Lakhiwal Colony", "Lari Adda", "Madina Town", "Main Bazar", "Mandi Bhalwal Road",
+    "Mianwali Road", "Model Town", "Mughalpura", "Muslim Town", "Naseerabad", "New Satellite Town", "Nishatabad", "Noor Town",
+    "OPF Colony", "Police Lines", "Qila Peeran", "Quaid-e-Azam Colony", "Railway Colony",  "Rehmatabad", "Risalpur Colony", "Sadiqabad",
+    "Samanabad", "Sargodha Dry Port", "Sargodha International Airport Area", "Shahpur Road", "Shalimar Colony", "Sheikh Colony", "Sikandarabad",
+    "Sukheki Road", "Tariqabad", "Tehsil Bazar", "University Town", "Wahdat Colony",  "Waris Pura", "Zafar Town", "Zia Colony"
+  ],
+  "Bahawalpur": [
+    "Satellite Town", "Cantt (Cantonment)", "Model Town", "Civil Lines", "Dubai Chowk", "Musafir Khana",
+    "Farid Gate", "DHA Bahawalpur", "Abbasia Town", "Airport Road", "Al-Faisal Town", "Al-Habib Colony", "Al-Noor Colony", "Al-Rehman Garden",
+    "Allama Iqbal Colony", "Amanat Shah Road", "Askari Colony", "Bahawalpur Bypass", "Bahawalpur Zoo Area", "Basti Malook", "Bohar Gate",
+    "Central Park Housing", "Chak 4/ML", "Chak 5/ML", "Chaudhry Colony", "Circular Road", "City Housing Society", "College Road",
+    "Darbar Mahal Area", "Derawar Colony", "Engineering University Road", "Gateshah Chowk", "Ghauspur Road", "Government College Chowk",
+    "Gulberg Colony", "Gulistan Colony", "Hasilpur Road", "Islamabad Colony", "Islamic University Area", "Jamia Masjid Road", "Jhang Bazaar",
+    "Jinnah Colony", "Kachehri Road", "Khalid Bin Waleed Road", "Khawaja Fareed Road", "Kotwali Road", "Liaquat Bazaar", "Liaquat Chowk",
+    "Lodhi Colony", "Lok Mela Ground Area", "Madina Town", "Main Bazar", "Mandi Bazaar", "Maujgarh Road", "Medical College Road",
+    "Model Town Extension", "Muslim Town", "Nawab Sadiq Muhammad Khan Road", "New Model Town", "Nishatabad", "Noor Mahal Road",  "OPF Colony", "Pir Abdul Qadir Jilani Road",
+    "Police Lines", "Qaim Shah Road", "Quaid-e-Azam Chowk", "Railway Colony", "Railway Road", "Rahim Yar Khan Road", "Riazuddin Road",
+    "Sadiq Colony", "Sadiq Hospital Road", "Sahiwal Road", "Saleem Complex Area", "Samina Town", "Sandal Bar Colony", "Shahbaz Town",
+    "Shahdrah Road", "Shahzad Town", "Shalimar Colony", "Sharif Medical City", "Siddique Trade Center Area", "Station Bazaar", "Sultani Colony",
+    "Taj Colony", "Tehsil Bazar", "Uch Sharif Road", "University Road", "Wahdat Colony", "Yazman Road", "Zahoor Elahi Road", "Zarghoon Town"
+  ]
+}
